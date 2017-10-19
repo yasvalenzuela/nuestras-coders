@@ -1,0 +1,104 @@
+.title {
+	margin: 10px;
+
+}
+
+hr {
+	width: 100px;
+	margin-left: 10px;
+}
+
+.pictures {
+	width: 570px;
+	height: 170px;
+	position: relative;
+
+}
+
+.pictures img {
+	width: 150px;
+	height: 150px;
+	margin: 20px;
+	float: left;
+	opacity: 2.0;
+	filter:brightness(0.4);
+	
+	
+}
+
+.nn1 {
+	position: relative;
+	
+}
+
+.nn1 span{
+	position: absolute;
+	/*z-index: 3;*/
+	top: 150px;
+	left: 80px;
+	font-size: 10px;
+	font-family: courier;
+	color: #fff;
+
+}
+.nn2 span{
+	position: absolute;
+	/*z-index: 3;*/
+	top: 150px;
+	left: 255px;
+	font-size: 10px;
+	font-family: courier;
+	color: #fff;
+
+}
+.nn3 span{
+	position: absolute;
+	/*z-index: 3;*/
+	top: 150px;
+	left: 475px;
+	font-size: 10px;
+	font-family: courier;
+	color: #fff;
+
+}
+
+.pictures2 img {
+    width: 150px;
+	height: 150px;
+	margin: 20px;
+	float: left;
+	/*opacity: 2.0;*/
+	
+	
+}
+.nn4 span{
+	position: absolute;
+	/*z-index: 3;*/
+	top: 340px;
+	left: 95px;
+	font-size: 10px;
+	font-family: courier;
+	color: #fff;
+}
+.nn5 span{
+	position: absolute;
+	/*z-index: 3;*/
+	top: 340px;
+	left: 275px;
+	font-size: 10px;
+	font-family: courier;
+	color: #fff;
+}
+.nn6 span{
+	position: absolute;
+	/*z-index: 3;*/
+	top: 340px;
+	left: 460px;
+	font-size: 10px;
+	font-family: courier;
+	color: #fff;
+}
+
+
+
+
